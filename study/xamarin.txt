@@ -1,0 +1,35 @@
+Could not connect to the debugger - 
+Disabled Use fast deployment (debug mode only)" in Android project -> Properties -> Android options -> Packaging
+
+Image Loading Error - Add Image To project - right click image - add to project
+add to resource..
+folder should be drawable-hdpi
+
+project-must-be-deployed-before-it-can-be-started-
+ In Visual Studio, right-click the solution --> Configuration Manager --> check 'deploy'
+
+xamarin-forms-application-build-problem-missing-dll-
+Please try to clean and rebuild the project, delete the bin, obj files and restart the VS.
+
+location Key = NSLocationAlwaysUsageDescription,
+NSLocationWhenInUseUsageDescription
+url -https://stackoverflow.com/questions/52002466/error-appstore-connect-missing-purpose-string-in-info-plist-file
+
+TOOL = android asset studio
+
+Package restore failed. Rolling back package changes for 'xamarin'.
+
+
+
+You Simply need to clear the NuGet Cache. To do this ->
+
+Go to Tools
+Options
+NuGet Package Manager
+General
+Clear All NuGet Cache(s)
+
+xamarin could not found - install xamarin.forms nuget package
+xamarin InitializeComponent not found in context - Ensure the BuildAction of your App.xaml is set to "ApplicationDefinition"
+https://shareappscrack.com/grial-ui-kit/?token=47996088
+pass = 9RD?}SKQ`vfD$H+t
